@@ -80,8 +80,3 @@ papers.forEach(paper => {
   const p = new Paper();
   p.init(paper);
 });
-
-setTimeout(() => {
-  const audio = document.getElementById('backgroundMusic');
-  audio.muted = false; // Unmute after 3 seconds
-}, 2000);
