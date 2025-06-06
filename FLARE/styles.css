@@ -870,6 +870,7 @@ h3::after {
     transition: all 0.3s ease;
     position: relative;
     display: inline-block;
+    box-shadow: 0 5px 10px black;
 }
 
 .dev-link::before {
