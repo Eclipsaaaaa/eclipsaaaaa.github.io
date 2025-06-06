@@ -1,4 +1,4 @@
 Public repooooo!!!
-  • Projects
-  • Activities
-  • Random Things
+ <br/> • Projects
+ <br/> • Activities
+ <br/> • Random Things
